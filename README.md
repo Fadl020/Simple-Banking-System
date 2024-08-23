@@ -16,7 +16,7 @@ This project is a simple banking system API built with Node.js, TypeScript, Expr
 1. Clone the Repository
 First, clone the repository from GitHub to your local machine:
 git clone https://github.com/Fadl020/Simple-Banking-System.git
-cd your-repository-name
+cd repository-name
 
 2. Install Dependencies
 Install the required Node.js packages using npm:
